@@ -1,0 +1,10 @@
+
+.idea
+.venv
+venv
+__pycache__
+
+
+# Specific to project
+processed
+raw_docs
