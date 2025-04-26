@@ -3,8 +3,9 @@
 .venv
 venv
 __pycache__
-
+.env
 
 # Specific to project
 processed
 raw_docs
+embeddings
